@@ -1,7 +1,7 @@
 # WorkAheadQueueVisualizer
 A program to visualize how WorkAheadQueue's work (An assignment for the class ITSC 2214 at UNC Charlotte)
 
-[image](./images/Visualizer.png)
+![image](./images/Visualizer.png)
 
 # How it works:
 A WorkAheadQueue lets you access and utilize the first three nodes and elements at any given time, it is an enhanced queue per say.
