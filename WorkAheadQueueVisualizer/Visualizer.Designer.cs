@@ -334,12 +334,12 @@ namespace WorkAheadQueueVisualizer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(795, 434);
+            this.ClientSize = new System.Drawing.Size(799, 438);
             this.Controls.Add(this.GBX_Result);
             this.Controls.Add(this.GBX_Controls);
             this.Controls.Add(this.GBX_WorkAhead);
             this.Controls.Add(this.LST_Queue);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(815, 477);
             this.MinimumSize = new System.Drawing.Size(815, 477);
